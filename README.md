@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/a8f19172-c1be-4a96-aeb4-446b8d1a5293)
+
+
+
 DI spring of xml configuration
 ![Screenshot 2025-05-01 222656](https://github.com/user-attachments/assets/0948c179-3cfb-453c-a32d-6bb2c5d71578)
 
